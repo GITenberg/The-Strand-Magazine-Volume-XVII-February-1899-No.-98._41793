@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41793#The-Strand-Magazine-Volume-XVII-February-1899-No.-98.
 gutenberg_bookshelf: The Strand Magazine
 gutenberg_issued: '2013-01-06'
 gutenberg_type: Text
